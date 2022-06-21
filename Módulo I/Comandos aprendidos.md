@@ -2,10 +2,13 @@
 
 Repositório criado para o Desafio de Projeto.
 
-## Links Úteis
+## Comandos
 
-- [Sintaxe Basica do Markdown](https://www.markdownguide.org/basic-syntax/)
-
-- [Download do Git Bash](https://git-scm.com/downloads)
-
-- [Download do IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
+- git config --global user.name
+- git init
+- git clone
+- git status
+- git add .
+- git add -A
+- git commit -m
+- git push
