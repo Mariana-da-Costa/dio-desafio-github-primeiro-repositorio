@@ -5,6 +5,7 @@ Repositório criado para o Desafio de Projeto.
 ## Comandos
 
 - git config --global user.name
+- git config --global user.email
 - git init
 - git clone
 - git status
