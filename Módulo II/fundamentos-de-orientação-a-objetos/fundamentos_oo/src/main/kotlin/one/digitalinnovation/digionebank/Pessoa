@@ -3,6 +3,10 @@ package one.digitalinnovation.digionebank
 class Pessoa{
   var nome: String = "Mariana"
   var cpf: String = "123.456.789-00"
+
+  inner class Endereco {
+    var rua: String = "Rua teste"
+  }
 }
 
 fun main() {
@@ -10,4 +14,6 @@ fun main() {
 
   println(mariana.nome)
   println(mariana.cpf)
+
+  println(mariana.Endereco().rua)
 }
