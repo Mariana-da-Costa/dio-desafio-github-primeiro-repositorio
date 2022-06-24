@@ -4,16 +4,23 @@ class Pessoa{
   var nome: String = "Mariana"
   var cpf: String = "123.456.789-00"
 
-  inner class Endereco {
-    var rua: String = "Rua teste"
-  }
+ // inner class Endereco {
+ //   var rua: String = "Rua teste"
+ // }
+
+  construtor()
+  fun pessoaInfo() = "$nome e $cpf"
+
 }
+
 
 fun main() {
   val mariana = Pessoa()
 
-  println(mariana.nome)
-  println(mariana.cpf)
+  println(mariana.pessoaInfo())
 
-  println(mariana.Endereco().rua)
+  //println(mariana)
+  //println(mariana.nome)
+  //println(mariana.cpf)
+  //println(mariana.Endereco().rua)
 }
