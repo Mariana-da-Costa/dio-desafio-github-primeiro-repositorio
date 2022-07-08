@@ -1,4 +1,4 @@
-package com.example.api_collections
+ package com.example.api_collections
 
 fun main() {
     val joao = Funcionario("Mariana", 6000.0, "CLT")
