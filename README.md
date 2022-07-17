@@ -12,11 +12,11 @@ Repositório criado para o Desafio de Projeto.
 
 ## MÓDULO I
 
-  - Comandos aprendidos.
+  - [Comandos aprendidos](https://github.com/Mariana-da-Costa/dio-desafio-github-primeiro-repositorio/blob/main/Modulo%20I/Comandos%20aprendidos.md)
 
 ## MÓDULO II
   
-  - Projeto 1: fundamentos-de-orientação-a-objetos.
-  - Projeto 2: digionebank.
-  - Projeto 3: api-collections.
-  - Projeto 4: simulator.
+  - Projeto 1: [fundamentos-de-orientação-a-objetos](https://github.com/Mariana-da-Costa/dio-desafio-github-primeiro-repositorio/tree/main/Modulo%20II/fundamentos-de-orienta%C3%A7%C3%A3o-a-objetos)
+  - Projeto 2: [digionebank](https://github.com/Mariana-da-Costa/dio-desafio-github-primeiro-repositorio/tree/main/Modulo%20II/digionebank)
+  - Projeto 3: [api-collections](https://github.com/Mariana-da-Costa/dio-desafio-github-primeiro-repositorio/tree/main/Modulo%20II/api-collections)
+  - Projeto 4: [simulator](https://github.com/Mariana-da-Costa/dio-desafio-github-primeiro-repositorio/tree/main/Modulo%20II/simulator)
